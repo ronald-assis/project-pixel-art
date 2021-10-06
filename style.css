@@ -1,0 +1,36 @@
+.color {
+  border: solid 1px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+#color1 {
+  background-color: black;
+}
+
+#color2 {
+  background-color: rgb(135, 224, 232);
+}
+
+#color3 {
+  background-color: rgb(136, 56, 251);
+}
+
+#color4 {
+  background-color: tomato;
+}
+
+
+.pixel {
+  background-color: white;
+  border: solid 1px;
+  width: 40px;
+  height: 40px;
+  margin-bottom: -5px;
+}
+
+#board-size {
+  width: 50px;
+}
+
